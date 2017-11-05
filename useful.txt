@@ -1,0 +1,2 @@
+Useful commands
+cvlc --video-wallpaper --no-autoscale ~/Pictures/Wallpapers/Wallpaper\ Engine\ -\ Tiamat\ Comet\ \(Kimi\ no\ na\ wa\)-jMeG3fpyrBA.mp4 &
