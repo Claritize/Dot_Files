@@ -1,2 +1,2 @@
 Useful commands
-cvlc --video-wallpaper --no-autoscale --repeat ~/Pictures/Wallpapers/Wallpaper\ Engine\ -\ Tiamat\ Comet\ \(Kimi\ no\ na\ wa\)-jMeG3fpyrBA.mp4 &
+cvlc --video-wallpaper --no-autoscale --repeat --no-video-title ~/Pictures/Wallpapers/Wallpaper\ Engine\ -\ Tiamat\ Comet\ \(Kimi\ no\ na\ wa\)-jMeG3fpyrBA.mp4 nohup &
